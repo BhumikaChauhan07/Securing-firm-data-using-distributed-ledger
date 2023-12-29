@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/operations"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/jdbc connector jar file/mysql-connector-java-8.0.30.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/operations_jarfile.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/json-20231013.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/google-api-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/google-api-client-jackson2-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/google-api-services-drive-v3-rev197-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/google-api-services-oauth2-v2-rev157-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/google-http-client-1.43.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/google-http-client-gson-1.43.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/google-http-client-jackson2-1.43.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/google-oauth-client-1.34.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/google-oauth-client-jetty-1.34.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Downloads/jxta-jxse-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/slf4j-api-2.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/slf4j-simple-2.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/spark-core-2.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/jetty-server-12.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/jetty-util-12.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91730/Desktop/Draft_implementation/jar_files/jetty-servlet-11.0.18.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
